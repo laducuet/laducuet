@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @laducuet
 - 👀 I’m interested in information security
-- 🌱 I’m currently learning in Laboratory of Information Security in UET
+- 🌱 I’m currently learning in Laboratory of Information Security UET
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
